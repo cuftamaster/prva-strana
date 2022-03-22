@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PRVA STRANICA</title>
+</head> 
+<body>
+
+<h1 style="background-color:DodgerBlue;">welcome!</h1>
+<hr>
+<p>na ovoj stanici cemo probati da ubacimo par slika i nesto texta. cisto da vidimo da li znamo i mozemo</p>
+
+<img src=“../images/avatar” alt="ako ne vidis sliku, vidis ovaj text">
+<hr>
+
+<p>probacemo i link da ubacimo
+<p><a href="https://www.instagram.com/cuftamaster/">Instagram</a></p>
+<a href="https://www.instagram.com/cuftamaster/"><img src="https://instagram.fbeg1-1.fna.fbcdn.net/v/t51.2885-19/143543324_1050673225412612_8196694714080125802_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbeg1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=l5JJrHZg_qMAX_z6AfI&edm=ALQROFkBAAAA&ccb=7-4&oh=00_AT9a1oLg8O3weTFsYl6xdD-eAS7UEmMWgf6NyI8IaD9rPQ&oe=624101E9&_nc_sid=30a2ef" alt="link slika" style="width:42px;height:42px;"></a>
+
+</body>
+</html>
